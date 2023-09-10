@@ -4,7 +4,7 @@ Hi 👋, My name is Jakub Borkowski
 I have studied computer science at University of Zielona Góra, and now I'm working as a junior developer.
 
 *   🌍  I'm based in Zielona Góra, Poland
-*   🧠  I'm currently learning Flutter and a bit of everything
+*   🧠  I'm currently learning Kubernetes and a bit of everything
 *   ⚡  Fun fact: I like to shot movies in my free time
 
 ### Skills 
