@@ -16,8 +16,8 @@ I have studied computer science at University of Zielona Góra, and now I'm work
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="Icons/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="Icons/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="Icons/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="Icons/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="Icons/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a>
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="Icons/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="Icons/adobe_photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="Icons/adobe_after_effects-colored.svg" width="36" height="36" alt="After Effects" /></a>
+<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="Icons/adobe_premiere-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
 </p>
                     
