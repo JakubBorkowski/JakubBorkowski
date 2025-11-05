@@ -1,7 +1,7 @@
 Hi 👋, My name is Jakub Borkowski
 ================================
 
-I have studied computer science at University of Zielona Góra, and now I'm working as a junior developer.
+I have studied computer science at University of Zielona Góra, and now I'm working as a software developer.
 
 *   🌍  I'm based in Zielona Góra, Poland
 *   🧠  I'm currently learning Python and a bit of everything
