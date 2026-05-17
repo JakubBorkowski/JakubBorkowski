@@ -7,7 +7,7 @@ I have studied computer science at the University of Zielona Góra, and now I'm 
 *   🧠  I'm currently learning Python and a bit of everything
 *   ⚡  Fun fact: I like to shoot movies in my free time               
 
-#### Technologies and Tools I Use
+### Technologies and Tools I Use
 <!-- Core -->
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170"     target="_blank" rel="noreferrer"><img src="Icons/c-colored.svg"          width="36" height="36" alt="C" /></a>
